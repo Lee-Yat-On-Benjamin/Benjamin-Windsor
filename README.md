@@ -600,12 +600,14 @@ G 从西北来广州，虽然毕业于华南理工大学，但时常发表抽象
 
 ![](./assets/0010.png)
 
-李睿恒在表哥的建议下，只捐了 1 元来表达歉意。他不但捐款最少，还主动假扮催收专员
+李睿恒在表哥的建议下，只捐了 1 元来表达歉意。他不但捐款最少，还主动假扮催收专员，打电话恐吓花姐：
 
 <audio controls>
-    <source src="./assets/假扮催收专员恐吓花姐录音.m4a" type="audio/m4a">
+    <source src="./assets/ThreateningPhoneCall.m4a" type="audio/m4a">
     Your browser does not support the audio element.
 </audio>
+
+最后还主动把录音发到群里炫耀：
 
 ![](./assets/0009.jpg)
 
