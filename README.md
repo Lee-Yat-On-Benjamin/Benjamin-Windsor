@@ -634,7 +634,7 @@ G 从西北来广州，虽然毕业于华南理工大学，但时常发表抽象
 
 李睿恒在表哥的建议下，勉为其难捐了 1 元来表示合群。他不但捐款最少，还主动假扮网贷的催收专员，打电话恐吓花姐：
 
-[恐吓电话录音](https://onedrive.live.com/embed?resid=ABB04F9CF92BCD5B%21279406&authkey=!ACDsV5goooPnudo)
+[恐吓电话录音](https://1drv.ms/u/s!AlvNK_mcT7CrkYZuRsNXtQi2qoEo3Q?e=sWSNDW)
 
 最后还不忘主动把录音发到群里向大家炫耀：
 
